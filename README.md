@@ -1,7 +1,7 @@
 # local airgap MCP server
 Use tinyllama as example localmcpserver
 
-1. example one
+1. test example one
   ```
    localMCPServer.gif
   ```
